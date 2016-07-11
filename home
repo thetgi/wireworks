@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html style="background-color: #333333">
+<head>
+  <title>WireWorks Home</title>
+  <!--
+
+  -->
+  <p><a>W</a><a>E</a><a>L</a><a>C</a>O<a>M</a><a>E</a><a></a><a></a><a></a><a></a><a></a><a></a></p>
+</head>
+  <table>
+    <tr>
+      <td href="http://google.com">HOME</td>
+      <td href="shop.asp">SHOP</td>
+      <td href="contact.asp">CONTACT US</td>
+    </tr>
+  </table>
+<body>
+</body>
+  <style>
+    p {
+      text-align: center;
+      font-weight: bold;
+      font-size: 300%;
+    }
+    a:hover{
+      color:#e6e600;
+    }
+    table{
+      background-color: #1a1a1a;
+      font-weight: bold;
+      color: #808080;
+      width: 98%;
+      position: absolute;
+      align-self: center;
+      border-radius: 10px;
+      padding: 5px;
+    }
+    td{
+      width:33%;
+      text-align: center;
+      background-color: #333333;
+      padding: 5px;
+      border-radius: 5px;
+    }
+    td:hover{
+      background-color:#e6e600;
+    }
+    td:active{
+      background-color:#cccc00;
+    }
+  </style>
+</html>
